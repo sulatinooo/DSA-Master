@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DSA-Master/static/css/main.ae6c43b0.css",
+    "main.js": "/DSA-Master/static/js/main.f3d41345.js",
+    "static/js/453.670e15c7.chunk.js": "/DSA-Master/static/js/453.670e15c7.chunk.js",
+    "index.html": "/DSA-Master/index.html",
+    "main.ae6c43b0.css.map": "/DSA-Master/static/css/main.ae6c43b0.css.map",
+    "main.f3d41345.js.map": "/DSA-Master/static/js/main.f3d41345.js.map",
+    "453.670e15c7.chunk.js.map": "/DSA-Master/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae6c43b0.css",
+    "static/js/main.f3d41345.js"
+  ]
+}
